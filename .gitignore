@@ -1,0 +1,10 @@
+# Игнорировать билд
+dist/
+build/
+
+# Игнорировать node_modules
+node_modules/
+
+# Игнорировать локальные настройки IDE
+.vscode/
+.idea/
